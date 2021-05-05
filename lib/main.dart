@@ -9,7 +9,7 @@ void main() {
         appBar: AppBar(
           backgroundColor: Colors.blueGrey[900],
           title: Text(
-            "I Am Poor!!!",
+            "I Am Poor!",
             style: TextStyle(
               fontSize: 20,
               fontWeight: FontWeight.bold,
