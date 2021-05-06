@@ -19,3 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ***
 ![PoorApp](https://user-images.githubusercontent.com/51971892/117160320-64ef3f80-ad97-11eb-976c-a95d65829fed.PNG)
+
+***
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
