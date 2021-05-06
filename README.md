@@ -1,6 +1,6 @@
 # I Am Poor App
 
-Meu **Primeiro Projeto** em _Flutter_. 😄
+Meu **Segundo Projeto** em _Flutter_. 😄
 
 ## Getting Started
 
